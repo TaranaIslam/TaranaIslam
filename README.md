@@ -25,7 +25,7 @@ Skills: python / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/TaranaIslam/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/TaranaIslam)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TaranaIslam)  
 

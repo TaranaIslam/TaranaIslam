@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TaranaIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL/)  
+
 ### Hi there 👋, my name is Tarana Islam
 #### Web Devloper
 ![Web Devloper](https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/271649666_3096724273988641_6859339964210406072_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeFdOKd6VbK1IuFnSlQThCLWuI1MlSPN4Qq4jUyVI83hCoBwZMhSLcMU0s446vN8m_Iar5bZsq9h8hkgOiLdYuat&_nc_ohc=W-DvFL7VzrwAX81MZ0b&_nc_ht=scontent.fjsr3-1.fna&oh=00_AfA-uef5xoDxCkWeBLtL_H4gFsYN3COcWXb7lY5GDihOpA&oe=65A858AB)
@@ -13,7 +13,7 @@ Skills: python / JS / HTML / CSS
 - 💬 Ask me about web devlopment 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TaranaIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 

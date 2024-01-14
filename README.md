@@ -11,16 +11,7 @@ Skills: python / JS / HTML / CSS
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web devlopment 
-{
-  "+1": "https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8",
-  "-1": "https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8",
-  "100": "https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8",
-  "1234": "https://github.githubassets.com/images/icons/emoji/unicode/1f522.png?v8",
-  "1st_place_medal": "https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8",
-  "2nd_place_medal": "https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8",
-  "3rd_place_medal": "https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8",
-  "8ball": "https://github.githubassets.com/images/icons/emoji/unicode/1f3b1.png?v8",
-  ...
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TaranaIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.facebook.com/profile.php?id=100009532963812&mibextid=ZbWKwL/)  
 

@@ -1,6 +1,6 @@
-
-### Hi there 👋, my name is Tarana Islam
-!(https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/271649666_3096724273988641_6859339964210406072_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeFdOKd6VbK1IuFnSlQThCLWuI1MlSPN4Qq4jUyVI83hCoBwZMhSLcMU0s446vN8m_Iar5bZsq9h8hkgOiLdYuat&_nc_ohc=W-DvFL7VzrwAX81MZ0b&_nc_ht=scontent.fjsr3-1.fna&oh=00_AfA-uef5xoDxCkWeBLtL_H4gFsYN3COcWXb7lY5GDihOpA&oe=65A858AB)
+### Hi there 👋, i am Tarana
+#### Student
+![Student](https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/274538965_3128439737483761_922489244859963316_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeEQFzsYKnit_OzbX7fsYy7X-ygRJV-6hcj7KBElX7qFyPKTnZw4DF0TwAhAc5TEzzO12wl6MNP2ANBjm8x0Dl7K&_nc_ohc=g_5JWDB9s2QAX-8s_-4&_nc_ht=scontent.fjsr3-1.fna&oh=00_AfDdixIB3TFd2YHbNfLJUsLe2TiXQy1hlhrADIBG67XttA&oe=65A962B8)
 
 I have a passion for learning and sharing my knowledge with others.   
 
